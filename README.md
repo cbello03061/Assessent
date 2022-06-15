@@ -1,8 +1,8 @@
 # Assesment
 
-#FINAL ASSESSMENT CYNTHIA BELLO
+FINAL ASSESSMENT CYNTHIA BELLO
 
-##My team roles
+My team roles
 •	Part I (Triangle): in charge of the creation and training of the model for its implementation in the industry.
 Contribution: Through the general analysis of the preliminary data that we had, it was determined that the decision tree model should be used and the data was modeled, the results obtained provided us with a clear vision.
 personal challenge: Make the decision to make the data model to use and remove the fear of not achieving it.
@@ -21,10 +21,10 @@ personal challenge: I consider myself a visual person but without creativity, so
 
 
 
-##TEAM
+TEAM
 I felt that it was a very good team chemistry, once we made the decision of the team members we made a group on WhatsApp where we kept in touch 24 hours a day, we contributed ideas as they occurred to us and whenever any member of the team needed help,  we connected those who were available to solve the problem or doubt of the other member of the team.
 
-##Summary of Project
+Summary of Project
 -	An analysis of the cows of our project that are in production to determine until when to stop inseminating them so that they are not a bad investment.
 -	Random Forest was the best decision for the contribution in data análisis
 -	Data analysis is a parallel world, which allows you to make better business decisions modeling the data.
